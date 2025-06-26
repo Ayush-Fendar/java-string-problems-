@@ -5,13 +5,8 @@ This repository contains various Java programs focused on solving common string-
 ---
 
 ## 🔧 Topics Covered
-- String reversal
-- Palindrome check
-- Character frequency count
 - Anagram detection
-- Word count
-- String comparison
-- Substring extraction
+
 
 
 
