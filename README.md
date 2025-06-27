@@ -6,6 +6,7 @@ This repository contains various Java programs focused on solving common string-
 
 ## 🔧 Topics Covered
 - Anagram detection
+- Toggler 
 
 
 
